@@ -587,7 +587,7 @@ a {
 .certification-toggle {
   flex: 0 0 auto;
   color: #288b80;
-  font-size: 40px;
+  font-size: 30px;
   transition: transform 180ms ease;
 }
 
