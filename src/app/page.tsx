@@ -387,13 +387,14 @@ const skillGroups = [
   {
     title: "Programming Languages",
     items: [
-      { name: "HTML", icon: SiHtml5, color: "#e34f26" },
+      { name: "HTML 5 ", icon: SiHtml5, color: "#e34f26" },
       { name: "CSS", icon: FaCss3Alt, color: "#1572b6" },
       { name: "JavaScript", icon: SiJavascript, color: "#f7df1e" },
       { name: "React.js", icon: SiReact, color: "#61dafb" },
       { name: "Tailwind CSS", icon: SiTailwindcss, color: "#06b6d4" },
       { name: "TypeScript", icon: SiTypescript, color: "#3178c6" },
       { name: "Next.js", icon: SiNextdotjs, color: "#111827" },
+      { name: "MYSQL", icon: SiMysql, color: "#111827" },
     ],
   },
   {
